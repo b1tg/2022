@@ -1,5 +1,6 @@
 # 2022
 
+inspired by [yihong's 2022](https://github.com/yihong0618/2022)
 
 
 ## 收藏的文章
