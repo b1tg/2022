@@ -3,6 +3,13 @@
 inspired by [yihong's 2022](https://github.com/yihong0618/2022)
 
 
+## malware info
+
+| name | added_at | remark |
+| ---- | -------  |---- |
+| [S2W blog](https://medium.com/@s2w) | 2022/09/23 | 威胁情报,韩国 |
+| [asec ahnlab](https://asec.ahnlab.com/en/) | 2022/09/23 | 安博士 |
+
 ## 收藏的文章
 
 | 文章名称 | 添加日期 | 类型 | 备注 |
